@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate and self-driven Software Development graduate from Nelson Mandela University. I enjoy building practical, real-world systems that solve business problems and improve user experiences.<br><br>My interests include:<br><br>🌐 Web Application Development<br><br>🗄️ Backend API Development<br><br>⚙️ Full-Stack .NET Development<br><br>🔐 Cybersecurity Fundamentals<br><br>I am currently strengthening my skills in React, ASP.NET Core, and Python, while actively building and refining portfolio projects.
+I am a passionate and self-driven IT(Software Development) graduate from Nelson Mandela University. I enjoy building practical, real-world systems that solve business problems and improve user experiences.<br><br>My interests include:<br><br>🌐 Web Application Development<br><br>🗄️ Backend API Development<br><br>⚙️ Full-Stack .NET Development<br><br>🔐 Cybersecurity Fundamentals<br><br>I am currently strengthening my skills in React, ASP.NET Core, and Python, while actively building and refining portfolio projects.
 
 
 ## 🌐 Socials:
